@@ -1,0 +1,100 @@
+read1	Lagenorhynchus albirostris
+read2	Felis catus
+read3	Meles meles
+read4	Meles meles
+read5	Meles meles
+read6	Felis catus
+read7	Meles meles
+read8	Canis lupus familiaris
+read9	Puma yagouaroundi
+read10	Canis lupus familiaris
+read11	Canis lupus familiaris
+read12	Lumbricus terrestris
+read13	Acinonyx jubatus
+read14	Acinonyx jubatus
+read15	Meles meles
+read16	Balaenoptera acutorostrata
+read17	-
+read18	Meles meles
+read19	Lutra lutra
+read20	Canis lupus
+read21	Canis lupus
+read22	Meles meles
+read23	Lutra lutra
+read24	Canis lupus
+read25	Canis lupus
+read26	Lutra lutra
+read27	Canis lupus familiaris
+read28	Vulpes lagopus
+read29	Canis lupus familiaris
+read30	-
+read31	Canis lupus
+read32	Canis lupus familiaris
+read33	Lutra lutra
+read34	Canis lupus dingo
+read35	Canis lupus
+read36	Canis lupus
+read37	Balaenoptera acutorostrata
+read38	-
+read39	Canis lupus familiaris
+read40	Homo sapiens
+read41	Homo sapiens
+read42	Homo sapiens
+read43	Homo sapiens
+read44	Homo sapiens
+read45	Homo sapiens
+read46	Homo sapiens
+read47	Homo sapiens
+read48	Homo sapiens
+read49	Mus musculus
+read50	Mus musculus
+read51	Mus musculus
+read52	Mus musculus
+read53	Mus musculus
+read54	Mus musculus
+read55	Mus musculus
+read56	Mus musculus
+read57	Mus musculus
+read58	Mus musculus
+read59	Mus musculus
+read60	Mus musculus
+read61	Mus musculus
+read62	Mus musculus
+read63	Mus musculus
+read64	Mus musculus
+read65	Mus musculus
+read66	Mus musculus
+read67	Mus musculus
+read68	Mus musculus
+read69	Mus musculus
+read70	Mus musculus
+read71	Mus musculus
+read72	Mus musculus
+read73	Mus musculus
+read74	Mus musculus
+read75	Mus musculus
+read76	Mus musculus
+read77	Mus musculus
+read78	Mus musculus
+read79	Mus musculus
+read80	Mus musculus
+read81	Mus musculus
+read82	Mus musculus
+read83	Mus musculus
+read84	Mus musculus
+read85	Mus musculus
+read86	Mus musculus
+read87	Mus musculus
+read88	Mus musculus
+read89	Mus musculus
+read90	Mus musculus
+read91	Mus musculus
+read92	Mus musculus
+read93	Mus musculus
+read94	Mus musculus
+read95	Mus musculus
+read96	Mus musculus
+read97	Mus musculus
+read98	Mus musculus
+read99	Mus musculus
+read100	Mus musculus
